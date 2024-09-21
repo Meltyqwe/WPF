@@ -1,0 +1,15 @@
+C:\Users\miska\source\repos\dzwpf\dzwpf\obj\Debug\dzwpf.csproj.AssemblyReference.cache
+C:\Users\miska\source\repos\dzwpf\dzwpf\obj\Debug\MainWindow.g.cs
+C:\Users\miska\source\repos\dzwpf\dzwpf\obj\Debug\App.g.cs
+C:\Users\miska\source\repos\dzwpf\dzwpf\obj\Debug\dzwpf_MarkupCompile.cache
+C:\Users\miska\source\repos\dzwpf\dzwpf\obj\Debug\dzwpf_MarkupCompile.lref
+C:\Users\miska\source\repos\dzwpf\dzwpf\bin\Debug\dzwpf.exe.config
+C:\Users\miska\source\repos\dzwpf\dzwpf\bin\Debug\dzwpf.exe
+C:\Users\miska\source\repos\dzwpf\dzwpf\bin\Debug\dzwpf.pdb
+C:\Users\miska\source\repos\dzwpf\dzwpf\obj\Debug\MainWindow.baml
+C:\Users\miska\source\repos\dzwpf\dzwpf\obj\Debug\dzwpf.g.resources
+C:\Users\miska\source\repos\dzwpf\dzwpf\obj\Debug\dzwpf.Properties.Resources.resources
+C:\Users\miska\source\repos\dzwpf\dzwpf\obj\Debug\dzwpf.csproj.GenerateResource.cache
+C:\Users\miska\source\repos\dzwpf\dzwpf\obj\Debug\dzwpf.csproj.CoreCompileInputs.cache
+C:\Users\miska\source\repos\dzwpf\dzwpf\obj\Debug\dzwpf.exe
+C:\Users\miska\source\repos\dzwpf\dzwpf\obj\Debug\dzwpf.pdb

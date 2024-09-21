@@ -1,0 +1,23 @@
+﻿<Window x:Class="dzwpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:dzwpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock Text="Название проекта:" Margin="10,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <TextBox x:Name="NazvanieTextBox" Width="200" Margin="130,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <TextBlock Text="Расходы:" Margin="10,40,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <TextBox x:Name="RashodTextBox" Width="200" Margin="130,40,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <Button Content="Добавить" Width="100" Margin="340,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Click="AddButton_Click"/>
+        <DataGrid x:Name="ProjectsDataGrid" AutoGenerateColumns="False" Margin="10,80,10,10" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Название проекта" Binding="{Binding ProjectName}" Width="*"/>
+                <DataGridTextColumn Header="Расходы" Binding="{Binding Expenses}" Width="*"/>
+                <DataGridTextColumn Header="Прибыль" Binding="{Binding Profit}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
